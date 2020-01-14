@@ -1,0 +1,162 @@
+Blender Glossary
+
+Layer, 層/分層/層面
+Volume, 音量/體積/質量
+Parent, 親子?
+Layer, 層/分層
+Blend, 混合
+Transformation, 變換
+Loop cut, 循環切割
+Edge loop, 循環線
+Edge ring, 環形線
+Delete loose, 刪除孤立 
+Degenerate dissolve, 消除無效幾何 
+Transmission, 穿透
+Glossy, 光澤
+Actuator, 促動器
+Armature, 骨架
+Constraint, 約束
+Object, 物體
+Steering, 轉向
+Flipper, 輕擊
+Loop Stop,
+Loop End,
+Blendin > Blend_in 
+End Frame, 結束幀
+Force, 力
+Start Frame, 起始幀
+IK polar target, 兩極目標
+Weight, 權重
+Damping, 阻尼
+time constant, 時間
+force field spring, 力場
+Loc X, 區域 位置
+Dynamics, 動態 動力
+Sharpen, 硬邊化
+Torque, 扭距 力距
+Compound, 化合物 複合物
+Assign, 指派 賦予
+Bool Constant,
+Bool Uniform,
+Bool Bernoulli,
+Float Normal,
+Float Neg. Exp.,
+Rolloff,
+Strip, 條帶 片段
+Bake, 烘焙
+region, 區塊
+Area, 面積
+handle, 控制桿
+Boid, 群集
+Bank,
+Goal, 目的
+Avoid, 避開
+Deflectors, 變流器
+Flee, 逃逸
+Strength, 力量
+Ease In,
+Ease Out,
+Deform, 變形
+viewport, 視接口
+Repulsion, 
+Cloth, 布料
+Bending Stiffness, 抗彎剛性
+Stiffness,
+Effector,
+Kill, 終結
+Mix,
+Blend,
+color ramp,
+Ease,
+Cardinal,
+B-Spline,
+Spline, 樣條 鏈式
+color stop,
+Space, 空格 空間
+residual, 剩餘 殘餘
+radiant,
+solver,
+clamp, 吸附 緊固
+damped, 衰減
+damping,
+Kinematics,
+Stretch, 伸展 延展
+artifacts,
+twisting,
+Shrinkwrap,
+channel,
+head, 頭
+tail, 尾
+track, 追蹤 跟蹤 軌道
+follow, 跟隨
+pole,
+viscosity,
+velosity,
+Combine, 合成
+Separate, 分隔
+Distortion,
+Twist,
+resolution, 分辨率 解析度
+Trim, 修剪 剪切
+Edge, 邊線
+Vertex, 頂點
+Face, 面
+Top, 頂
+Bottom, 底
+Front, 前
+Back, 後
+Overlay, 覆蓋內容
+Manifold, 流形
+Seams, 縫合
+Bevel, 倒角
+Creases, 硬度
+Roots, 根基
+Tips, 
+Make, 生成 創見
+Side,
+Flat Faces,
+Categories, 分類
+Orbit, 繞軌
+Color picker, 撿色器
+light, 光源、照明、光照
+Anisotropic, 
+Manhattan Distance, 
+Euclidean Distance, 
+Manipulation, 
+Dim, 
+Mute, 靜音
+Backdrop, 背幕
+Torus, 環體
+Sphere, 球體
+Cylinder, 圓柱體
+Surface, 曲面
+Icosphere, ICO 球體
+UVs, UV
+Specular, 高光
+Geometry, 幾何
+Diffuse, 漫射
+Odd,
+Bump,
+Tile, 拼貼 鋪排
+Thread, 線程 執行緒
+Clumping,
+Effect, 效應
+Repel, 消除
+split, 切割
+Division, 分割
+Subdivision, 細分
+Parting, 分開
+Spring, 彈簧
+Kink, 糾纏
+Endpoint, 終結點
+Emitter, 發射器
+Bias, 偏移量
+Tesselation, 鑲嵌
+Occlusion Culling, 遮擋剔除
+Cull, 剔除
+rim, 邊框
+Passepartout,
+Title Safe,
+Quadratic, 二次型
+
+
