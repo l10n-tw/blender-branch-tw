@@ -1,5 +1,5 @@
 # blender-branches-tw
-Traditional Chinese translation for blender [branch]
+Traditional Chinese translation for blender [branch], manually synced with upstream svn repo.
 
 ## Blender 翻譯概覽
 Blender 的開發仰賴志工與基金會員工發展，翻譯這部分也是。
