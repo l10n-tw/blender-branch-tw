@@ -11,6 +11,13 @@ Blender 的開發仰賴志工與基金會員工發展，翻譯這部分也是。
 過去相關歷史紀錄，請參見 [Blender 翻譯近況](http://breezymove.blogspot.com/2012/08/bledner.html) [2013/08/14]，以及 [Blender 翻譯故事](http://breezymove.blogspot.com/2013/12/blender_8.html) [2013/12/08]。
 
 ## 本專案貢獻流程
+### Weblate 翻譯（建議）
+<a href="https://r2.tw.pan93412.dedyn.io/engage/blender/zh_Hant/?utm_source=widget">
+<img src="https://r2.tw.pan93412.dedyn.io/widgets/blender/zh_Hant/blender/287x66-grey.png" alt="翻譯狀態" />
+</a>
+按一下上方圖片即可進入 Weblate。請先註冊帳戶，才可翻譯。
+
+### 手動翻譯
 * 先 fork 一份到你自己的 repo
 * 編修你 repo 下的 po 檔
 * 每週一晚上從 https://svn.blender.org/svnroot/bf-translations/branches/blender.pot 手動下載 pot 檔，並用 pot 檔更新 po 檔
