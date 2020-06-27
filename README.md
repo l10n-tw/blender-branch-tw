@@ -18,7 +18,7 @@ Blender 的開發仰賴志工與基金會員工發展，翻譯這部分也是。
 
 按一下上方圖片即可進入 Weblate。請先註冊帳戶，才可翻譯。
 
-### 手動翻譯
+### 手動翻譯（不建議）
 * 先 fork 一份到你自己的 repo
 * 編修你 repo 下的 po 檔
 * 每週一晚上從 https://svn.blender.org/svnroot/bf-translations/branches/blender.pot 手動下載 pot 檔，並用 pot 檔更新 po 檔
