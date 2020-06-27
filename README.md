@@ -13,7 +13,7 @@ Blender 的開發仰賴志工與基金會員工發展，翻譯這部分也是。
 ## 本專案貢獻流程
 ### Weblate 翻譯（建議）
 <a href="https://r2.tw.pan93412.dedyn.io/engage/blender/?utm_source=widget">
-<img src="https://r2.tw.pan93412.dedyn.io/widgets/blender/blender/-/287x66-grey.png" alt="翻譯狀態" />
+<img src="https://r2.tw.pan93412.dedyn.io/widgets/blender/-/287x66-grey.png" alt="翻譯狀態" />
 </a>
 
 按一下上方圖片即可進入 Weblate。請先註冊帳戶，才可翻譯。
