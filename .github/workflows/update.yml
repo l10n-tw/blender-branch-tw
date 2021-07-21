@@ -12,8 +12,8 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
+  # This workflow contains a single job called "update-pot"
+  update-pot:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
@@ -32,3 +32,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           message: 'blender.pot: update - ${date}'
+          branch: zh_TW
